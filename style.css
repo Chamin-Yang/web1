@@ -1,0 +1,26 @@
+h1{
+  font-size:45px;
+  text-align:center;
+  margin-bottom:0px;
+}
+a{
+  color:black;
+}
+#grid{
+  display:grid;
+  grid-template-columns: 260px 1fr;
+  border-top:2px gray solid;
+}
+#subtitle{
+  display:grid;
+  text-align:center;
+  margin-top:0px;
+}
+#grid1{
+  padding-left:33px;
+  border-right:1px gray solid;
+}
+#grid2{
+  padding-left:100px;
+  border-left:1px gray solid;
+}
